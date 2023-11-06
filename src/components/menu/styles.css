@@ -14,7 +14,7 @@ ul {
 }
 
 li {
-    margin: 0 10px;
+    margin:  10px;
 }
 
 a {
@@ -23,6 +23,7 @@ a {
     font-weight: bold;
     transition: color 0.3s;
     font-size: 24px;
+    margin: 5px;
 }
 
 a:hover {
